@@ -17,5 +17,5 @@ public class Fruits {
 
     private String nameFruits;
 
-    private String colorFuits;
+    private String colorFruits;
 }

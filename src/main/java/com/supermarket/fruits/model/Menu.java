@@ -15,11 +15,8 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Menu {
 
 @Id
-private String IdMenu;
-private String DayMenu;
-private String PriceMenu;
+private String idMenu;
+private String dayMenu;
+private String priceMenu;
 
-
-    public Menu() {
-    }
 }
